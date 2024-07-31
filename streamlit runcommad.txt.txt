@@ -1,0 +1,9 @@
+streamlit run "E:\8th semester\FYP2\heart disease prediction\heart diseas prediction.py"
+streamlit run "E:\8th semester\FYP2\heart disease prediction\heart login.py"
+streamlit run "E:\8th semester\FYP2\heart disease prediction\heart_disease.py"
+
+
+    i have these three file and i want to integrate the file with each other i want login page forst open  and after add and save  user data in databse then open heart_ disesase_ predection  and after fill the fome of heart disease then i fan also be save  with user id in databse 
+
+
+ 
